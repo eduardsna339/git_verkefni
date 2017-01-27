@@ -20,3 +20,6 @@
 	c) git diff commit1 commit2
 		--staged is to view the changes staged for the next commit
 		c) This form is to view the differences between two objects.
+
+4. 	Hvað er útgáfustýring (e.version control)?
+version control is a system that records changes to files over time		
