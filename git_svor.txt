@@ -26,4 +26,6 @@ version control is a system that records changes to files over time
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 support for non-linear development with parallel branches
-		
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+its best to commit often. Git only takes full responsibility for your data when you commit		
