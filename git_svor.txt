@@ -6,3 +6,10 @@
 	ls	list contents of current directory
 	pwd	print working directory path
 	mkdir	make new directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone	clone a repository to pc
+	git log		a log for commit history
+	git status	shows alot of usefull information
+	git diff	show changes between commits, files
+	git checkout	switch to a different existing branch
