@@ -1,1 +1,8 @@
 #Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd   change your working directory
+	cd ~	change to user home directory
+	ls	list contents of current directory
+	pwd	print working directory path
+	mkdir	make new directory
