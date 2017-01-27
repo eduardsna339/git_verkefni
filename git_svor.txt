@@ -39,3 +39,6 @@ its a good idea to open a new branch to implement a fix or to take the project i
 
 9.	Hver fann upp GIT?
 Linus Torvalds, the creator of Linux
+
+10.	Hvar er GIT helst notað?
+its mostly used in software development
