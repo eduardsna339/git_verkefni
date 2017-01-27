@@ -22,4 +22,8 @@
 		c) This form is to view the differences between two objects.
 
 4. 	Hvað er útgáfustýring (e.version control)?
-version control is a system that records changes to files over time		
+version control is a system that records changes to files over time
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+support for non-linear development with parallel branches
+		
