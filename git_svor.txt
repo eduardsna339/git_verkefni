@@ -28,4 +28,8 @@ version control is a system that records changes to files over time
 support for non-linear development with parallel branches
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
-its best to commit often. Git only takes full responsibility for your data when you commit		
+its best to commit often. Git only takes full responsibility for your data when you commit	
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+working directory contains tracked/untracked or modified files. from there files can be commited to the staging area.
+from the staging area files can pushed to an online repository
