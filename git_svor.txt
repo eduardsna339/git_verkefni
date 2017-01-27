@@ -36,3 +36,6 @@ from the staging area files can pushed to an online repository
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 its a good idea to open a new branch to implement a fix or to take the project in different directions
+
+9.	Hver fann upp GIT?
+Linus Torvalds, the creator of Linux
