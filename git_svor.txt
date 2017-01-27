@@ -13,3 +13,10 @@
 	git status	shows alot of usefull information
 	git diff	show changes between commits, files
 	git checkout	switch to a different existing branch
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+		--staged is to view the changes staged for the next commit
+		c) This form is to view the differences between two objects.
