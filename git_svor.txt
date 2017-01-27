@@ -33,3 +33,6 @@ its best to commit often. Git only takes full responsibility for your data when 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 working directory contains tracked/untracked or modified files. from there files can be commited to the staging area.
 from the staging area files can pushed to an online repository
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+its a good idea to open a new branch to implement a fix or to take the project in different directions
